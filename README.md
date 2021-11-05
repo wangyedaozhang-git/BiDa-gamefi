@@ -2,4 +2,4 @@
 
 Decentralized forging NFT props and trading platform
 
-BiDa gamefi 去中心化锻造NFT游戏道具与交易平台
+BiDa gamefi 去中心化 游戏NFT道具锻造与交易平台
